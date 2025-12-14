@@ -1,4 +1,4 @@
-package common
+package common.logger
 
 // 필요할 때 모든 로그를 끌 때 사용
 object AppLogger {
